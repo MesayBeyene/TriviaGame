@@ -1,0 +1,12 @@
+
+body{
+    background-color:gray;
+}
+#container{
+    background: url(../images/psbg.jpg);
+    background-repeat:no-repeat;
+    text-align: center;
+    background-size: cover;
+    margin-left: 5%;
+    margin-right:5%;
+}
